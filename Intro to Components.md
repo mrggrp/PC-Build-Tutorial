@@ -12,4 +12,4 @@
 - **Power Supply Unit (PSU)**: The PSU converts electricity from your outlet into usable power for your PC components. Its wattage capacity **must exceed** the combined power consumption of your components.
 
 - **Case**: The PC case houses all components, providing protection and structure. Cases vary in size, supporting different motherboard form factors like ATX, microATX, and mini-ITX. Selecting a case that can comfortably fit all of the components is **crucial** for the PC build and PC health.
-### [Click Here to Return to Table of Contents]
+### [Click Here to Return to Table of Contents](https://github.com/mrggrp/PC-Build-Tutorial/blob/main/README.md)
