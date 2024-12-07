@@ -1,5 +1,5 @@
 # How to Pick the Correct Components
-- When choosing components it is important to remember that your games/applications will impact your choices.
+- When choosing components it is important to remember that the types of games you play will impact your choices.
 - I have provided some great midline components below that will be able to handle _most_ applications.
 - These provided parts may struggle with performance in more demanding applications like animation, modeling, and content creation.
 - ### [Click Here to Return to Table of Contents](https://github.com/mrggrp/PC-Build-Tutorial/blob/main/README.md)
@@ -15,3 +15,15 @@
   - SSDs also have the advantage of containing no moving parts, which makes them less likely to suffer from mechanical failure.
   - M.2 PCIe NVMe SSDs are the most common and fastest type of SSD. [The Sabrent Rocket 5](https://www.tomshardware.com/pc-components/ssds/sabrent-rocket-5-2tb-ssd-review) is a low cost, but high performance PCIe NVMe SSD.
     - It is important to note that SSDs vary in size between brands, so finding one that fits your case will save a lot of headache.
+ - **Case**: Choosing the right case ensures compatibility with your components and promotes proper airflow to keep your PC cool. 
+    - Some cases are designed for larger builds, while others are more compact, which means that choosing a case comes down to personal preference.
+    - Some great medium sized cases are the [NZXT H510 Flow](https://www.tomshardware.com/reviews/nzxt-h510-flow-review) and the [Cooler Master MasterBox TD500 Mesh](https://gamersnexus.net/hwreviews/3594-cooler-master-masterbox-td500-mesh-case-review).
+    - Both of these cases feature excellent airflow and cable-management options.
+  - **PSU**: A reliable PSU is critical for system stability. Choose a PSU with an 80 PLUS Bronze or higher certification to ensure efficiency.
+    - The wattage should account for your GPU and CPU requirements.
+    - The [Corsair CX650M](https://www.tomshardware.com/reviews/corsair-cx650m-psu,4770.html) is semi-modular, reliable, and sufficient for most midline builds.
+  - **Motherboard**:
+    - _For AMD Ryzen 5_
+      - [MSI B550-A PRO](https://www.anandtech.com/show/15850/the-amd-b550-motherboard-overview-asus-gigabyte-msi-asrock-and-others/38) This is a cheap and effective motherboard with PCIe 4.0 support.
+    - _For Intel Core i5_
+     - [ASUS PRIME Z790-P](https://www.pcmag.com/reviews/asus-prime-z790-p-wi-fi) This is a great motherboard that supports DDR5 and has extensive PCIe 5.0 slots.
