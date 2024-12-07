@@ -5,4 +5,6 @@
 -This tutorial is meant for people who want to build their first PC, but are not sure where to start.
 
 ### Table of Contents
-1. [Choosing the Right Components]
+1. [Introduction to PC Components]
+2. [Choosing the Right Components](https://github.com/mrggrp/PC-Build-Tutorial/blob/main/Choosing%20Components.md)
+3. [Common Mistakes to Avoid]
