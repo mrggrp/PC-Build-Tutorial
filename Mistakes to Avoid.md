@@ -1,4 +1,5 @@
 # Common Mistakes to Avoid when Building your First PC.
+### [Click Here to Return to the Table of Contents](https://github.com/mrggrp/PC-Build-Tutorial/blob/main/README.md)
 ## Compatability Error.
   - Purchasing components that fit together may seem obvious, but finding out what each part is compatible with can be an exhausting process. 
   - Using a website that checks the compatiblility of parts like [PC Part Picker](https://uk.pcpartpicker.com/) ensures that all parts fit together and can save you countless hours of research.
