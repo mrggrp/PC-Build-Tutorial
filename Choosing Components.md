@@ -2,7 +2,7 @@
 - When choosing components it is important to remember that your games/applications will impact your choices.
 - I have provided some great midline components below that will be able to handle _most_ applications.
 - These provided parts may struggle with performance in more demanding applications like animation, modeling, and content creation.
-- **[Click Here to Return to Table of Contents]**
+- ### [Click Here to Return to Table of Contents](https://github.com/mrggrp/PC-Build-Tutorial/blob/main/README.md)
 ### Gaming PC Components
 - **CPU**: Choosing a processor that can handle heavy single-core performance and multitasking will allow for smoother gameplay.
   - The [AMD Ryzen 5](https://www.pcmag.com/reviews/amd-ryzen-5-4500) and [Intel Core i5](https://www.pcmag.com/reviews/intel-core-i5-13600k) are cost-effective and perform well in most modern games, thus making them good options for a beginner's PC build.
